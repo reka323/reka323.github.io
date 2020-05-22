@@ -1,0 +1,17 @@
+	body
+{
+		background-color: #00FF00;
+		color: #000000;
+		font-family: Arial Black;
+}
+
+	h1, h3, h6, p, li
+{
+		color: #FF0000;
+}
+
+	p
+{
+		color: #0000FF;
+		padding: 20px;
+}
