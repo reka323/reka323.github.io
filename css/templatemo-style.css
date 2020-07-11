@@ -19,8 +19,7 @@ body {
 
 ul { padding: 0; margin: 0; }
 figure { margin: 0; }
-p:last-child { margin-bottom: 0;
-  text-align: justify; }
+p:last-child { margin-bottom: 0; }
 a { color: #3f97c9; }
 a, button { transition: all 0.3s ease; }
 a:hover,
@@ -334,7 +333,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	padding: 10px;
 }
 
-.cd-hero-slider .cd-full-width { text-align: left; }
+.cd-hero-slider .cd-full-width { text-align: justify; }
 .cd-full-width .container-fluid { margin-top: -80px; }
 
 .tm-2-col-textbox-2 {
