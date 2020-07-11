@@ -667,13 +667,13 @@ Main content
   max-width: 768px;
   margin: 0 auto;
   padding: 2em 0;
+  text-align: justify;
 }
 .cd-main-content p {
   font-size: 1.4rem;
   line-height: 1.8;
   color: #999999;
   margin: 2em 0;
-  text-align: justify;
 }
 @media only screen and (min-width: 1170px) {
   .cd-main-content {
